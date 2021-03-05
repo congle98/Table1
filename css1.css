@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+}
+#tr1{
+    color: aliceblue;
+    background: coral;
+}
+#tr2{
+    color: aliceblue;
+    background: coral;
+}
+#tr3{
+    text-align: center;
+}
+#tr4{
+    text-align: center;
+}
+#tr5{
+    text-align: center;
+}
+#tr6{
+    text-align: center;
+}
